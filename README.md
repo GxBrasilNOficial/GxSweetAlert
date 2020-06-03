@@ -1,6 +1,12 @@
 # GxSweetAlert
 User Control Object - Sweet Alert (GeneXus)
 
+<p align="center">
+  <a href="https://sweetalert2.github.io/">
+    <img src="https://github.com/GxBrasilNOficial/GxSweetAlert/blob/master/GxSweetAlert/SwertAlertDemo.gif?raw=true" width="562"><br>
+    See SweetAlert2 in action ↗
+  </a>
+</p>
 
 ```Gx
 Event Start
